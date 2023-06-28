@@ -1,0 +1,516 @@
+{
+  "puzzles":[
+  {
+    "letter": "eaMgria",
+    "words": [
+      {
+        "word": "Maria",
+        "position": "4 9",
+        "direction": "ACR",
+        "hint": "Maria is a historically feminine name of Latin origin"
+      },
+      {
+        "word": "Grama",
+        "position": "7 5",
+        "direction": "ACR",
+        "hint": "Any of various grasses of the genus Bouteloua,"
+      },
+      {
+        "word": "Marriage",
+        "position": "9 2",
+        "direction": "ACR",
+        "hint": "A legally and socially sanctioned union, usually between a man and a woman, that is regulated by laws, rules, customs, beliefs,"
+      },
+      {
+        "word": "Grime",
+        "position": "11 2",
+        "direction": "ACR",
+        "hint": "Dirt ingrained on the surface of something."
+      },
+      {
+        "word": "Mega",
+        "position": "9 2",
+        "direction": "DWN",
+        "hint": "Very large; huge."
+      },
+      {
+        "word": "Imager",
+        "position": "4 5",
+        "direction": "DWN",
+        "hint": "One that produces an image"
+      },
+      {
+        "word": "Mirage",
+        "position": "4 9",
+        "direction": "DWN",
+        "hint": "An optical illusion caused by atmospheric conditions"
+      }
+    ]
+  },
+  {
+    "letter": "Playful",
+    "words": [
+      {
+        "word": "Play",
+        "position": "4 10",
+        "direction": "ACR",
+        "hint": "Engage in activity for enjoyment and recreation"
+      },
+      {
+        "word": "Lapful",
+        "position": "7 5",
+        "direction": "ACR",
+        "hint": "The quantity that can be held in the lap."
+      },
+      {
+        "word": "Fully",
+        "position": "10 3",
+        "direction": "ACR",
+        "hint": "Completely or entirely; to the fullest extent."
+      },
+      {
+        "word": "Layup",
+        "position": "13 7",
+        "direction": "ACR",
+        "hint": "A one-handed shot made from near the basket, especially one that rebounds off the backboard."
+      },
+      {
+        "word": "Pull",
+        "position": "4 10",
+        "direction": "DWN",
+        "hint": "Exert force on (someone or something) so as to cause movement towards oneself."
+      },
+      {
+        "word": "Playful",
+        "position": "7 7",
+        "direction": "DWN",
+        "hint": "Fond of games and amusement"
+      },
+      {
+        "word": "Yap",
+        "position": "11 11",
+        "direction": "DWN",
+        "hint": "To talk in a shrill insistent way"
+      },
+      {
+        "word": "Flu",
+        "position": "10 3",
+        "direction": "DWN",
+        "hint": "Influenza."
+      }
+    ]
+  },
+  {
+    "letter": "Edition",
+    "words": [
+      {
+        "word": "Edition",
+        "position": "5 7",
+        "direction": "ACR",
+        "hint": "Version of a published text."
+      },
+      {
+        "word": "Iodine",
+        "position": "9 7",
+        "direction": "ACR",
+        "hint": "A chemical element that is found in small amounts in sea water and used to prevent infection"
+      },
+      {
+        "word": "Noted",
+        "position": "10 3",
+        "direction": "ACR",
+        "hint": "Well known; famous."
+      },
+      {
+        "word": "ident",
+        "position": "12 5",
+        "direction": "ACR",
+        "hint": "A short sequence shown on television between programmes to identify the channel."
+      },
+      {
+        "word": "End",
+        "position": "7 10",
+        "direction": "ACR",
+        "hint": "A final part of something"
+      },
+      {
+        "word": "Tenioid",
+        "position": "4 7",
+        "direction": "DWN",
+        "hint": "Resembling the shape of a ribbon."
+      },
+      {
+        "word": "Dent",
+        "position": "9 9",
+        "direction": "DWN",
+        "hint": "A slight hollow in a hard even surface made by a blow or pressure."
+      },
+      {
+        "word": "die",
+        "position": "7 12",
+        "direction": "DWN",
+        "hint": "Stop living."
+      },
+      {
+        "word": "ion",
+        "position": "5 11",
+        "direction": "DWN",
+        "hint": "An atom or group of atoms that carries a positive or negative electric charge"
+      }
+    ]
+  },
+  {
+    "letter": "Friends",
+    "words": [
+      {
+        "word": "Fined",
+        "position": "4 9",
+        "direction": "ACR",
+        "hint": "Make or become thinner."
+      },
+      {
+        "word": "Fern",
+        "position": "8 6",
+        "direction": "ACR",
+        "hint": "A flowerless plant which has feathery or leafy fronds and reproduces by spores"
+      },
+      {
+        "word": "Serif",
+        "position": "10 9",
+        "direction": "ACR",
+        "hint": "A slight projection finishing off a stroke of a letter in certain typefaces."
+      },
+      {
+        "word": "Fed",
+        "position": "8 6",
+        "direction": "DWN",
+        "hint": "A federal agent"
+      },
+      {
+        "word": "Friends",
+        "position": "4 9",
+        "direction": "DWN",
+        "hint": "A person with whom one has a bond of mutual affection, typically one exclusive of sexual or family relations."
+      },
+      {
+        "word": "Den",
+        "position": "4 13",
+        "direction": "DWN",
+        "hint": "A wild mammal's hidden home"
+      },
+      {
+        "word": "Fired",
+        "position": "10 13",
+        "direction": "DWN",
+        "hint": "Dismiss (an employee) from a job."
+      }
+    ]
+  },
+  {
+    "letter": "Deliver",
+    "words": [
+      {
+        "word": "Devil",
+        "position": "3 4",
+        "direction": "ACR",
+        "hint": "The supreme spirit of evil"
+      },
+      {
+        "word": "Liver",
+        "position": "5 6",
+        "direction": "ACR",
+        "hint": "A large lobed glandular organ in the abdomen of vertebrates, involved in many metabolic processes."
+      },
+      {
+        "word": "Relieved",
+        "position": "9 4",
+        "direction": "ACR",
+        "hint": "No longer feeling distressed or anxious; reassured."
+      },
+      {
+        "word": "reive",
+        "position": "11 11",
+        "direction": "ACR",
+        "hint": "reive"
+      },
+      {
+        "word": "Delived",
+        "position": "3 4",
+        "direction": "DWN",
+        "hint": "Delived"
+      },
+      {
+        "word": "Lever",
+        "position": "3 7",
+        "direction": "DWN",
+        "hint": "a rigid bar resting on a pivot, used to move a heavy or firmly fixed load with one end when pressure is applied to the other."
+      },
+      {
+        "word": "Elder",
+        "position": "9 5",
+        "direction": "DWN",
+        "hint": "Of a greater age."
+      },
+      {
+        "word": "Derive",
+        "position": "9 11",
+        "direction": "DWN",
+        "hint": "Obtain something from"
+      }
+    ]
+  },
+  {
+    "letter": "Sparrow",
+    "words": [
+      {
+        "word": "Roars",
+        "position": "6 4",
+        "direction": "ACR",
+        "hint": "A full, deep, prolonged cry uttered by a lio"
+      },
+      {
+        "word": "Pows",
+        "position": "7 8",
+        "direction": "ACR",
+        "hint": "A person who has been captured and imprisoned by the enemy in war."
+      },
+      {
+        "word": "Arrow",
+        "position": "9 7",
+        "direction": "ACR",
+        "hint": "A weapon consisting of a thin, straight stick with a sharp point, designed to be shot from a bow."
+      },
+      {
+        "word": "raws",
+        "position": "10 11",
+        "direction": "ACR",
+        "hint": "Not cooked."
+      },
+      {
+        "word": "warps",
+        "position": "12 8",
+        "direction": "ACR",
+        "hint": "Make or become bent or twisted out of shape, typically as a result of the effects of heat or damp."
+      },
+      {
+        "word": "swap",
+        "position": "9 1",
+        "direction": "ACR",
+        "hint": "Take part in an exchange of."
+      },
+      {
+        "word": "Rasp",
+        "position": "6 4",
+        "direction": "DWN",
+        "hint": "A harsh, grating noise."
+      },
+      {
+        "word": "wraps",
+        "position": "9 11",
+        "direction": "DWN",
+        "hint": "Cover or enclose in paper or soft material."
+      },
+      {
+        "word": "Sparrow",
+        "position": "6 8",
+        "direction": "DWN",
+        "hint": "Small Old World bird related to the weaver birds"
+      }
+    ]
+  },
+  {
+    "letter": "Dancing",
+    "words": [
+      {
+        "word": "Acid",
+        "position": "8 10",
+        "direction": "ACR",
+        "hint": "A substance with particular chemical properties including turning litmus red, neutralizing alkalis, and dissolving some metals; typically, a corrosive or sour-tasting liquid of this kind."
+      },
+      {
+        "word": "Caning",
+        "position": "10 10",
+        "direction": "ACR",
+        "hint": "A beating with a cane as a punishment."
+      },
+      {
+        "word": "Cain",
+        "position": "12 7",
+        "direction": "ACR",
+        "hint": "Spear; possessed."
+      },
+      {
+        "word": "Gain",
+        "position": "11 8",
+        "direction": "DWN",
+        "hint": "Obtain or secure"
+      },
+      {
+        "word": "Dancing",
+        "position": "7 10",
+        "direction": "DWN",
+        "hint": "To move one's feet or body, or both, rhythmically in a pattern of steps, especially to the accompaniment of music."
+      },
+      {
+        "word": "Nag",
+        "position": "10 14",
+        "direction": "DWN",
+        "hint": "Harass (someone) constantly to do something that they are averse to."
+      }
+    ]
+  },
+  {
+    "letter": "Futuresl",
+    "words": [
+      {
+        "word": "Turf",
+        "position": "4 9",
+        "direction": "ACR",
+        "hint": "Grass and the surface layer of earth held together by its roots."
+      },
+      {
+        "word": "Future",
+        "position": "7 4",
+        "direction": "ACR",
+        "hint": "A period of time following the moment of speaking or writing;"
+      },
+      {
+        "word": "Fuse",
+        "position": "12 5",
+        "direction": "ACR",
+        "hint": "Join or blend to form a single entity."
+      },
+      {
+        "word": "Rut",
+        "position": "10 2",
+        "direction": "ACR",
+        "hint": "A long deep track made by the repeated passage of the wheels of vehicles."
+      },
+      {
+        "word": "Fret",
+        "position": "7 4",
+        "direction": "DWN",
+        "hint": "Be constantly or visibly anxious."
+      },
+      {
+        "word": "Left",
+        "position": "4 6",
+        "direction": "DWN",
+        "hint": "On, towards, or relating to the side of a human body or of a thing that is to the west when the person or thing is facing north."
+      },
+      {
+        "word": "Uterus",
+        "position": "7 7",
+        "direction": "DWN",
+        "hint": "The organ in the lower body of a woman or female mammal where offspring are conceived and in which they gestate before birth; the womb."
+      },
+      {
+        "word": "True",
+        "position": "4 9",
+        "direction": "DWN",
+        "hint": "No false"
+      }
+    ]
+  },
+  {
+    "letter": "Sconced",
+    "words": [
+      {
+        "word": "Second",
+        "position": "3 9",
+        "direction": "ACR",
+        "hint": "After first"
+      },
+      {
+        "word": "Once",
+        "position": "5 9",
+        "direction": "ACR",
+        "hint": "For one time only."
+      },
+      {
+        "word": "Conned",
+        "position": "7 9",
+        "direction": "ACR",
+        "hint": "Persuade (someone) to do or believe something by lying to them."
+      },
+      {
+        "word": "Nodes",
+        "position": "9 7",
+        "direction": "ACR",
+        "hint": "A point in a network or diagram at which lines or pathways intersect or branch."
+      },
+      {
+        "word": "Send",
+        "position": "13 4",
+        "direction": "ACR",
+        "hint": "Cause to go"
+      },
+      {
+        "word": "Nosed",
+        "position": "9 7",
+        "direction": "DWN",
+        "hint": "Having a nose or projecting part of a specified kind."
+      },
+      {
+        "word": "sconced",
+        "position": "3 9",
+        "direction": "DWN",
+        "hint": "sconced"
+      },
+      {
+        "word": "Cones",
+        "position": "5 11",
+        "direction": "DWN",
+        "hint": "A solid or hollow object which tapers from a circular or roughly circular base to a point."
+      }
+    ]
+  },
+  {
+    "letter": "Lengthy",
+    "words": [
+      {
+        "word": "Gent",
+        "position": "6 12",
+        "direction": "ACR",
+        "hint": "A men's public toilet."
+      },
+      {
+        "word": "Lent",
+        "position": "10 12",
+        "direction": "ACR",
+        "hint": "The period preceding Easter, which is devoted to fasting, abstinence, and penitence in commemoration of Christ's fasting in the wilderness."
+      },
+      {
+        "word": "then",
+        "position": "8 9",
+        "direction": "ACR",
+        "hint": "At that time; at the time in question."
+      },
+      {
+        "word": "lengthy",
+        "position": "11 6",
+        "direction": "ACR",
+        "hint": "Long"
+      },
+      {
+        "word": "leg",
+        "position": "11 6",
+        "direction": "DWN",
+        "hint": "Each of the limbs on which a person or animal walks and stands."
+      },
+      {
+        "word": "Gel",
+        "position": "11 9",
+        "direction": "DWN",
+        "hint": "A thick, clear, slightly sticky substance, especially one used in cosmetic or medicinal products."
+      },
+      {
+        "word": "Gently",
+        "position": "6 12",
+        "direction": "DWN",
+        "hint": "with a mild, kind, or tender manner."
+      }
+    ]
+  }
+]
+}
